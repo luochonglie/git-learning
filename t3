@@ -5,3 +5,4 @@ push to remote
 modified in branch master
 append text on branch master
 append text on branch feature1
+dev | save commit info from del branch
